@@ -8,7 +8,8 @@ String version=resource.getString("version");%>
 
 <html>
 <body>
-<h2>Hello World!</h2>
+<h2>Hello World!
+ tamaru project chale che</h2>
  <h3> Changes done </h3>
 </body>
 </html>
